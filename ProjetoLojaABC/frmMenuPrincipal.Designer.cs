@@ -50,6 +50,7 @@ namespace ProjetoLojaABC
             this.btnVoltar.TabIndex = 7;
             this.btnVoltar.Text = "Vo&ltar";
             this.btnVoltar.UseVisualStyleBackColor = true;
+            this.btnVoltar.Click += new System.EventHandler(this.btnVoltar_Click);
             // 
             // btnUsuarios
             // 

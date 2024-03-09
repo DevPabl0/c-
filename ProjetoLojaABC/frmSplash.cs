@@ -16,5 +16,17 @@ namespace ProjetoLojaABC
         {
             InitializeComponent();
         }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            frmSplash abrir = new frmSplash();
+            abrir.Show();
+            this.Hide();
+        }
+
+        private void pgbSplash_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
