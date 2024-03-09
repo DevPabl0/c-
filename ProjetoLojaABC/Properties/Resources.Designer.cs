@@ -93,6 +93,56 @@ namespace ProjetoLojaABC.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap delivery_transportation_4577 {
+            get {
+                object obj = ResourceManager.GetObject("delivery_transportation_4577", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap delivery_truck_icon_129545 {
+            get {
+                object obj = ResourceManager.GetObject("delivery_truck_icon_129545", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap effective_employees_users_team_group_icon_152042 {
+            get {
+                object obj = ResourceManager.GetObject("effective_employees_users_team_group_icon_152042", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fornecedor_de_hoteis {
+            get {
+                object obj = ResourceManager.GetObject("fornecedor-de-hoteis", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fornecedor_de_hoteis1 {
+            get {
+                object obj = ResourceManager.GetObject("fornecedor-de-hoteis1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap group {
             get {
                 object obj = ResourceManager.GetObject("group", resourceCulture);
@@ -106,6 +156,66 @@ namespace ProjetoLojaABC.Properties {
         internal static System.Drawing.Bitmap group__1_ {
             get {
                 object obj = ResourceManager.GetObject("group (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap group_profile_users_icon_icons_com_73540 {
+            get {
+                object obj = ResourceManager.GetObject("group-profile-users_icon-icons.com_73540", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap group_profile_users_icon_icons1 {
+            get {
+                object obj = ResourceManager.GetObject("group-profile-users_icon-icons1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Next_arrow_1559 {
+            get {
+                object obj = ResourceManager.GetObject("Next_arrow_1559", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap round_account_button_with_user_inside_icon_icons_com_72596 {
+            get {
+                object obj = ResourceManager.GetObject("round-account-button-with-user-inside_icon-icons.com_72596", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sale_icon_icons_com_51018 {
+            get {
+                object obj = ResourceManager.GetObject("sale_icon-icons.com_51018", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap shipping_products_22121 {
+            get {
+                object obj = ResourceManager.GetObject("shipping_products_22121", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -122,5 +122,38 @@
   <ItemGroup>
     <None Include="Resources\commerce_online_buy_store_business_box_product_item_icon_219867 %281%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fornecedor-de-hoteis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivery_transportation_4577.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivery_truck_icon_129545.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round-account-button-with-user-inside_icon-icons.com_72596.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sale_icon-icons.com_51018.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group-profile-users_icon-icons.com_73540.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group-profile-users_icon-icons.com_735401.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fornecedor-de-hoteis1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\effective_employees_users_team_group_icon_152042.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipping_products_22121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next_arrow_1559.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
